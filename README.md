@@ -1,4 +1,4 @@
-# MT-Lab
+# MT-X
 ### Data Analytics | Business Intelligence | Data Enthusiast | Aspiring cloud data engineer |Technology
 
 Hi, I'm Maryam Abubakar, a Data Analyst with an interest in understanding how data explains business and operational performance.
